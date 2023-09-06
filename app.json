@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SPARTENX-OP/SPARTENXBOT/",
+  "repository": "https://github.com/Recordu45/SPARTENXBOT/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -63,8 +63,6 @@
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
-  },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
